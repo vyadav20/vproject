@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Factorial {
 
+	//this is similar to factorial, but not printing the multiplied product
 	public static void main(String[] args)
 	{ 
 		Scanner scr=new Scanner(System.in);

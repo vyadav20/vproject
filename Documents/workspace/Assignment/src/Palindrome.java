@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 public class Palindrome {
-
+//Palindrome is to print the given number in reverse order. 
+	//currently the output is just 0  for any given number
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
     
