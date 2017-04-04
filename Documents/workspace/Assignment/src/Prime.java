@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Prime {
-
+//Works great, awesome.Happy Coding
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
